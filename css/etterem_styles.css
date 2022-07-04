@@ -1,0 +1,96 @@
+body {
+  background-color: LightCyan;
+  text-align: center;
+}
+/*
+.bal {
+  float: left;
+  width: 50%;
+  background-color: LightCyan;
+}
+
+.jobb {
+  float: left;
+  width: 50%;
+  background-color: LightBlue;
+}*/
+
+.etterem {
+  text-decoration: underline;
+  font-family: 'Caveat', cursive;
+}
+
+.haz {
+  max-width: 20%;
+  max-height: 20%;
+}
+
+.nev {
+  font-style: italic;
+  flex: 1 1 1 auto;
+  justify-content: center;
+  
+  font-family: 'Indie Flower', cursive, 'The Nautigal', cursive, sans-serif; 
+  font-size: 1em;
+}
+
+.hr {
+  border: dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin-bottom: 40px;
+}
+
+.szoveg {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.szoveg2 {
+  text-align: center;
+  padding-right: 300px;
+  
+}
+.hely {
+
+  float: left;
+  padding-left: 30%;
+  max-width: 2%;
+  max-height: 2%;
+}
+
+.foto {
+  max-width: 20%;
+  max-height: 20%;
+}
+.kep {
+  float: left;
+}
+
+.eloetel {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flexbox {
+  display: inline;  
+}
+.show_inline {
+  display: inline;
+}
+.euro {
+  padding-left: 150px;
+}
+.alergy {
+  padding-left: 25px;
+}
+li {
+  list-style-type: none;
+ }
+.button {
+  background-color: transparent;
+  border-color: transparent;
+  
+  margin-left: auto;
+  margin-right: auto;
+}
